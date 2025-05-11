@@ -38,7 +38,7 @@ dfs(visited, graph, '5')  # Function calling
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/a4ca9c28-4f23-45ee-8de7-795867efa666)
+![image](https://github.com/user-attachments/assets/4166d222-e2a9-4623-bf44-e7a0db670f2c)
 
 
 
