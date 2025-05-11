@@ -43,7 +43,7 @@ print("The optimal value is:", minimax(0, 0, True, values, float('-inf'), float(
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/f6a0bcb6-f68a-4cb9-8483-19c4f39dae98)
+![image](https://github.com/user-attachments/assets/fa50f4a1-67d5-4114-b38f-babcfd4a1552)
 
 
 
