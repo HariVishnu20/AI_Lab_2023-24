@@ -42,7 +42,7 @@ print("The optimal value is:", minimax(0, 0, True, scores, treeDepth))
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/b7510b85-2a30-4fc6-b90b-781e2cf1dcec)
+![image](https://github.com/user-attachments/assets/20ce62b6-94d5-4569-81b2-550a6ce1f61c)
 
 
 
