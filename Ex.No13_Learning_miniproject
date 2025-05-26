@@ -1,6 +1,6 @@
 # Ex.No: 13 Learning – Use Supervised Learning  
                                                                             
-### REGISTER NUMBER : 212222060073
+### REGISTER NUMBER : 212222060246
 
 ### AIM: 
 To perform object detection on an image (e.g., cat.jpg) using OpenCV and a pre-trained MobileNet SSD model trained on the 
@@ -96,4 +96,3 @@ cv2_imshow(img)
 * The model detects a **cat** (class ID 17) with a high confidence.
 * A **green rectangle** is drawn around the cat.
 * The label **"cat"** is displayed near the detected region.
-
