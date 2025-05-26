@@ -14,7 +14,7 @@ COCO dataset, and to display the detected object(s) with bounding boxes and labe
 2. **Read and Display the Image**
    Load an image using `cv2.imread()` and display using `cv2_imshow()`.
 
-3. **Load Class Names**
+3. **Load Class Names** 
    Load object class labels from the `coco.names` file into a list called `classNames`.
 
 4. **Load Pre-trained Model**
